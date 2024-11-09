@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinh (Vinkay) <img src="https://raw.githubusercontent.com/vinkay215/vinkay215/refs/heads/main/img/verified.gif" alt="gif icon" width="30" height="30"/></h1>
+<h1 align="center">Hi 👋, I'm Vinh (Vinkay) <img src="https://raw.githubusercontent.com/vinkay215/vinkay215/refs/heads/main/img/verified.gif" alt="gif icon" width="25" height="25"/></h1>
 <h3 align="center">I am a Developer</h3>  
 
 
