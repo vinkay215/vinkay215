@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-## Donate Me:  
+
+   
 <a href="https://nguyenquocvinh.glitch.me/Donate"><img src="https://github.com/vinkay215/vinkay215/blob/main/img/donate.png" width="150" /></a>
 
 # 💻Tech Stack
