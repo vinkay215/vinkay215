@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Producer.Wzink) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/VinhNguyenOfficial512) 
 
 # 🏆 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=vinkay215&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=vinkay215&theme=radical&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinkay215&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vinkay215&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinkay215&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 ### ✍️Random Dev Quote
