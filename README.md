@@ -38,35 +38,35 @@
     <h2 align="center">Tech Stack </h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=e34f26&color=black" width="81">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E&color=black" width="116">
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=777bb4&color=black" width="65">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54&color=black" width="90.5">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=ed8b00&color=black" width="53">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=e34f26&color=black" width="71">
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=00DD00&color=black" width="67">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=00599c&color=black" width="49">
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=00599c&color=black" width="38.5">
-<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&amp;logo=azure-devops&amp;logoColor=white&color=black" width="63">
-<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=4285f4&color=black" width="137">
-<img src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&amp;logo=glitch&amp;logoColor=ff61f6&color=black" width="87">
-<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=6600CC&color=black" width="92">
-<img src="https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&amp;logo=scaleway&amp;logoColor=4f0599&color=black" width="108">
-<img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&amp;logo=openstack&amp;logoColor=FF0033&color=black" width="114">
-<img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&amp;logo=datadog&amp;logoColor=632ca6&color=black" width="101">
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=5c2d91&color=black" width="69">
-<img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&amp;logo=three.js&amp;logoColor=white&color=black" width="95">
-<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&amp;logo=socket.io&amp;badgeColor=010101&color=black" width="109">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=4ea94b&color=black" width="104">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&color=black" width="83">
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=07405e&color=black" width="87">
-<img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&amp;logo=realm&amp;logoColor=39477f&color=black" width="83">
-<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&amp;logo=Adobe%20After%20Effects&amp;logoColor=9999ff&color=black" width="186">
-<img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&amp;logo=Adobe%20Dreamweaver&amp;logoColor=ff61f6&color=black" width="185">
-<img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=FFCC00&color=black" width="170">
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&amp;logo=Adobe%20Premiere%20Pro&amp;logoColor=9900CC&color=black" width="182">
-<img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=0033FF&color=black" width="162">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white&color=black" width="84">
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=e34f26&color=black" width="81"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E&color=black" width="116"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=777bb4&color=black" width="65"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54&color=black" width="90.5"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=ed8b00&color=black" width="53"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=e34f26&color=black" width="71"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=00DD00&color=black" width="67"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=00599c&color=black" width="49"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=00599c&color=black" width="38.5"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&amp;logo=azure-devops&amp;logoColor=white&color=black" width="63"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=4285f4&color=black" width="137"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&amp;logo=glitch&amp;logoColor=ff61f6&color=black" width="87"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=6600CC&color=black" width="92"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&amp;logo=scaleway&amp;logoColor=4f0599&color=black" width="108"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&amp;logo=openstack&amp;logoColor=FF0033&color=black" width="114"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&amp;logo=datadog&amp;logoColor=632ca6&color=black" width="101"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=5c2d91&color=black" width="69"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&amp;logo=three.js&amp;logoColor=white&color=black" width="95"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&amp;logo=socket.io&amp;badgeColor=010101&color=black" width="109"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=4ea94b&color=black" width="104"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&color=black" width="83"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=07405e&color=black" width="87"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&amp;logo=realm&amp;logoColor=39477f&color=black" width="83"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&amp;logo=Adobe%20After%20Effects&amp;logoColor=9999ff&color=black" width="186"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&amp;logo=Adobe%20Dreamweaver&amp;logoColor=ff61f6&color=black" width="185"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=FFCC00&color=black" width="170"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&amp;logo=Adobe%20Premiere%20Pro&amp;logoColor=9900CC&color=black" width="182"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=0033FF&color=black" width="162"></a>
+<a href="https://nguyenquocvinh.glitch.me/Hi" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white&color=black" width="84"></a>
 </p>
 
 
