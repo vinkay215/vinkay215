@@ -3,8 +3,8 @@
   
 <div align="center">
   <p>✨ Socials media ✨</p>  
-  <a href="https://instagram.com/_vinkay_"><img src="https://github.com/vinkay215/vinkay215/blob/main/img/facebook.svg" width="20" /></a>
-  <a href="https://facebook.com/_vinkay_"><img src="https://github.com/vinkay215/vinkay215/blob/main/img/instagram.svg" width="20" /></a>
+  <a href="https://instagram.com/_vinkay_"><img src="https://github.com/vinkay215/vinkay215/blob/main/img/facebook.svg" width="25" /></a> 
+  <a href="https://facebook.com/_vinkay_"><img src="https://github.com/vinkay215/vinkay215/blob/main/img/instagram.svg" width="25" /></a> 
   <a href="https://www.youtube.com/c/VinhNguyenOfficial512"><img src="https://github.com/vinkay215/vinkay215/blob/main/img/youtube.svg" width="25" /></a>
 </div>
 
