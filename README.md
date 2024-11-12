@@ -57,12 +57,12 @@
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white&color=black" width="69">
 <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&amp;logo=three.js&amp;logoColor=white&color=black" width="95">
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&amp;logo=socket.io&amp;badgeColor=010101&color=black" width="109">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&color=black" width="104">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=4ea94b&color=black" width="104">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&color=black" width="83">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=07405e&color=black" width="87">
-<img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&amp;logo=realm&amp;logoColor=white&color=black" width="83">
-<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&amp;logo=Adobe%20After%20Effects&amp;logoColor=white&color=black" width="186">
-<img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&amp;logo=Adobe%20Dreamweaver&amp;logoColor=white&color=black" width="185">
+<img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&amp;logo=realm&amp;logoColor=39477f&color=black" width="83">
+<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&amp;logo=Adobe%20After%20Effects&amp;logoColor=9999ff&color=black" width="186">
+<img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&amp;logo=Adobe%20Dreamweaver&amp;logoColor=ff61f6&color=black" width="185">
 <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=FFCC00&color=black" width="170">
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&amp;logo=Adobe%20Premiere%20Pro&amp;logoColor=9900CC&color=black" width="182">
 <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=0033FF&color=black" width="162">
