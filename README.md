@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi 👋, I'm <a href="https://nguyenquocvinh.glitch.me">Vinh</a><img src="https://github.com/vinkay215/vinkay215/blob/main/img/verified.png" width="25" /></h1>
+   <h1>Hi 👋, I'm <a href="https://nguyenquocvinh.glitch.me">Vinh</a><img src="https://github.com/vinkay215/vinkay215/blob/main/img/verified.gif?raw=true" width="25" /></h1>
 </div>
 
 
