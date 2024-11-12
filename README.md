@@ -8,22 +8,22 @@
 
 <details>
   <summary>Skills</summary>
-  - Problem Solving
-  - Youtuber
-  - Blogging
-  - Web Content Writing
-  - Video Editing
-  - Blogger
-  - Researching Learning
+  - Problem Solving  
+  - Youtuber  
+  - Blogging  
+  - Web Content Writing  
+  - Video Editing  
+  - Blogger  
+  - Researching Learning  
 </details>
 
 <details>
   <summary>Hobbies</summary>
 </br> 
-  🌏 Traveling
-  📚 Learning
-  🎮 Play Games
-  🎧 Listening to Music
+  🌏 Traveling  
+  📚 Learning  
+  🎮 Play Games  
+  🎧 Listening to Music  
 </details>  
   
 # 🏆 GitHub Stats 
