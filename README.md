@@ -70,6 +70,11 @@
 </p>
 
 
-<div align="center"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=vinkay215&icon=2&color=0" alt="Visit Count" width="120"></a></div><br>
 
+
+<div align="center">
+    
+###### @2024 [nguyenquocvinh](http://nguyenquocvinh.glitch.me), Inc. All rights reserved
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=vinkay215&icon=2&color=0" alt="Visit Count" width="120"></a><br>
+</div>
 
