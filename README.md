@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
    <h3>Hi 👋, I'm <a href="https://nguyenquocvinh.glitch.me">Vinh</a></h3>
-</p>
+</div>
 
 
 <div align="center">
