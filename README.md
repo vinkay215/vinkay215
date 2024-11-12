@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Vinh<img src="https://raw.githubusercontent.com/vinkay215/vinkay215/refs/heads/main/img/verified.gif" alt="gif icon" width="25" height="25"/></h1>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=bold&duration=3000&pause=100&color=F7F7F7&background=FFFFFF00&width=435&lines=I+am+a+Developer;I+am+a+Designer" alt="Typing SVG" /></a></div>  
+<div align="center"><a> I am a Developer</a></div>  
   
 <div align="center">
+  <p>✨ Socials media ✨</p>  
   <a href="https://instagram.com/_vinkay_"><img src="https://github.com/vinkay215/vinkay215/blob/main/img/facebook.svg" width="20" /></a>
   <a href="https://facebook.com/_vinkay_"><img src="https://github.com/vinkay215/vinkay215/blob/main/img/instagram.svg" width="20" /></a>
-  <a href="https://www.youtube.com/c/VinhNguyenOfficial512"><img src="https://github.com/vinkay215/vinkay215/blob/main/img/youtube.svg" width="20" /></a>
+  <a href="https://www.youtube.com/c/VinhNguyenOfficial512"><img src="https://github.com/vinkay215/vinkay215/blob/main/img/youtube.svg" width="25" /></a>
 </div>
 
 
