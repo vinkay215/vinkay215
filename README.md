@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vinh<img src="https://raw.githubusercontent.com/vinkay215/vinkay215/refs/heads/main/img/verified.gif" alt="gif icon" width="25" height="25"/>
-<div align="center"><a> I am a Developer</a></div>  <br></h1>
+ <br><div align="center"><a> I am a Developer</a></div> </h1>
 
   
 <div align="center">
