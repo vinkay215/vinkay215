@@ -6,25 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Producer.Wzink) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/VinhNguyenOfficial512) 
 
 
-<details>
-  <summary>Skills</summary>
-  - Problem Solving  
-  - Youtuber  
-  - Blogging  
-  - Web Content Writing  
-  - Video Editing  
-  - Blogger  
-  - Researching Learning  
-</details>
 
-<details>
-  <summary>Hobbies</summary>
-</br> 
-  🌏 Traveling  
-  📚 Learning  
-  🎮 Play Games  
-  🎧 Listening to Music  
-</details>  
   
 # 🏆 GitHub Stats 
 <p align="center">
