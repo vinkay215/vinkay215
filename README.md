@@ -45,8 +45,8 @@
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=ed8b00&color=black" width="53">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=e34f26&color=black" width="71">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=00DD00&color=black" width="67">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white&color=black" width="49">
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white&color=black" width="38.5">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=00599c&color=black" width="49">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=00599c&color=black" width="38.5">
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&amp;logo=azure-devops&amp;logoColor=white&color=black" width="63">
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=4285f4&color=black" width="137">
 <img src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&amp;logo=glitch&amp;logoColor=ff61f6&color=black" width="87">
