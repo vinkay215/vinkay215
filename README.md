@@ -75,6 +75,6 @@
 <div align="center">
     
 ###### @2024 [nguyenquocvinh](http://nguyenquocvinh.glitch.me), Inc. All rights reserved
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=vinkay215&icon=2&color=1&bg=0" alt="Visit Count" width="140"></a><br>
+<a href="https://nguyenquocvinh.glitch.me"><img src="https://visitcount.itsvg.in/api?id=vinkay215&icon=2&color=1&bg=0" alt="Visit Count" width="140"></a><br>
 </div>
 
