@@ -13,7 +13,7 @@
 
   
 <p align="center">
-    <img src="https://path_to_your_large_icon_image.png" alt="🏆" width="50" />
+    <img alt="🏆" width="150" />
     <br>GitHub Stats
 </p>
 
