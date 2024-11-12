@@ -1,5 +1,3 @@
-<div align="center"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=vinkay215&icon=2&color=0" alt="Visit Count" width="90"></a></div><br>
-
 <h1 align="center">Hi 👋, I'm Vinh (Vinkay) <img src="https://raw.githubusercontent.com/vinkay215/vinkay215/refs/heads/main/img/verified.gif" alt="gif icon" width="25" height="25"/></h1>
 <h3 align="center">I am a Developer</h3>  
 
@@ -13,7 +11,7 @@
 # 🏆 GitHub Stats 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vinkay215&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" width="360"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinkay215&theme=transparent&hide_border=true" width="395" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinkay215&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="250" /> </p> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinkay215&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="290" /> </p> 
 
   
 
@@ -33,6 +31,6 @@
 
 
 
-
+<div align="center"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=vinkay215&icon=2&color=0" alt="Visit Count" width="120"></a></div><br>
 
 
