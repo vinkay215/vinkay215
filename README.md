@@ -9,8 +9,8 @@
 
 # 🏆 GitHub Stats 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vinkay215&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="360"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinkay215&theme=radical&hide_border=false" width="395" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinkay215&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="250" /> </p> 
+<img src="https://github-readme-stats.vercel.app/api?username=vinkay215&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" width="360"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinkay215&theme=transparent&hide_border=true" width="395" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinkay215&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="250" /> </p> 
 
   
 
