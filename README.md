@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54&color=black" width="90.5">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=ed8b00&color=black" width="53">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white&color=black" width="71">
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white&color=00DD00" width="67">
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=00DD00&color=black" width="67">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white&color=black" width="49">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white&color=black" width="38.5">
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&amp;logo=azure-devops&amp;logoColor=white&color=black" width="63">
@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&amp;logo=glitch&amp;logoColor=white&color=black" width="87">
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=6600CC&color=black" width="92">
 <img src="https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&amp;logo=scaleway&amp;logoColor=white&color=black" width="108">
-<img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&amp;logo=openstack&amp;logoColor=white&color=FF0033" width="114">
+<img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&amp;logo=openstack&amp;logoColor=FF0033&color=black" width="114">
 <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&amp;logo=datadog&amp;logoColor=white&color=black" width="101">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white&color=black" width="69">
 <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&amp;logo=three.js&amp;logoColor=white&color=black" width="95">
