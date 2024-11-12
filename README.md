@@ -3,8 +3,7 @@
 
 <div align="center">
 <img height="200" width="100%" src="https://nguyenquocvinh.glitch.me/Profile/site-github.svg" />
-</div>  
-
+</div> 
 <p align="center">
   𝘾𝒐𝙣𝒕𝙖𝒄𝙩 𝙛𝒐𝙧 𝙬𝒐𝙧𝒌
 </p>
