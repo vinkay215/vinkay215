@@ -16,8 +16,10 @@
   
 
 
-### Random Dev Quote ✍️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Random Dev Quote ✍️  
+<p align="center">
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</p> 
+
 
    
 <a href="https://nguyenquocvinh.glitch.me/Donate"><img src="https://github.com/vinkay215/vinkay215/blob/main/img/Donate.png" width="150" /></a>
