@@ -1,4 +1,7 @@
-
+ <div align="center">
+  <p>✨ Hi, I'm Vinh ✨</p><a href="https://instagram.com/_vinkay_"><img src="https://github.com/vinkay215/vinkay215/blob/main/img/facebook.svg" width="25" /></a>
+  
+</div>
  
 --- 
  
