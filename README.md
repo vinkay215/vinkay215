@@ -16,9 +16,8 @@
   
 
 
-### Random Dev Quote ✍️  
-<p align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</p> 
+### Random Dev Quote ✍️
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
    
