@@ -66,7 +66,6 @@
 <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=FFCC00&color=black" width="170">
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&amp;logo=Adobe%20Premiere%20Pro&amp;logoColor=white&color=black" width="182">
 <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=0033FF&color=black" width="162">
-<img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&amp;logo=Aseprite&amp;logoColor=#7D929E&color=black" width="103">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white&color=black" width="84">
 </p>
 
