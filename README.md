@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Vinh <img src="https://raw.githubusercontent.com/vinkay215/vinkay215/refs/heads/main/img/verified.gif" alt="gif icon" width="25" height="25"/>
  <br><div align="center"><a> I am a Developer</a></div> </h1>
+ 
 --- 
  
  <div align="center">
@@ -10,8 +11,7 @@
 </div>
 
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Producer.Wzink) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/VinhNguyenOfficial512) 
+
 
 
 
