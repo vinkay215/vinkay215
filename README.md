@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=bold&pause=1000&width=435&lines=Vinh;Vinkay" alt="Typing SVG" /></a><img src="https://raw.githubusercontent.com/vinkay215/vinkay215/refs/heads/main/img/verified.gif" alt="gif icon" width="25" height="25"/></h1>
-<h3 align="center">I am a Developer</h3>  
+<h1 align="center">Hi, I'm Vinh<img src="https://raw.githubusercontent.com/vinkay215/vinkay215/refs/heads/main/img/verified.gif" alt="gif icon" width="25" height="25"/></h1>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=bold&duration=3000&pause=100&color=F7F7F7&background=FFFFFF00&width=435&lines=I+am+a+Developer;I+am+a+Designer" alt="Typing SVG" /></a></div>  
 
 
 ## 🌐 Socials
