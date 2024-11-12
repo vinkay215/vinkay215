@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<img height="200" width="100%" src="https://nguyenquocvinh.glitch.me/Profile/site-github.svg"/>
+<img height="200" width="100%" src="https://camo.githubusercontent.com/031e7ac883cda4fae8c7d22d2aa47bf4c27c6f92eb6edb2de302cb7e41543463/68747470733a2f2f6e677579656e71756f6376696e682e676c697463682e6d652f50726f66696c652f736974652d6769746875622e737667"/>
 </div> 
 <p align="center">
   𝘾𝒐𝙣𝒕𝙖𝒄𝙩 𝙛𝒐𝙧 𝙬𝒐𝙧𝒌
