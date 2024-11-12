@@ -12,9 +12,10 @@
 </p>
 
   
-<div align="center">
-    <p style="font-size: 5em;">🏆 GitHub Stats</p>
-</div>
+<p align="center">
+    <img src="https://path_to_your_large_icon_image.png" alt="🏆" width="50" />
+    <br>GitHub Stats
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vinkay215&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" width="360"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinkay215&theme=transparent&hide_border=true" width="395" />  
