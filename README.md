@@ -13,8 +13,7 @@
 
   
 <p align="center">
-    <img alt="🏆" width="150" />
-    <br>GitHub Stats
+    <h2 align="center">🏆 GitHub Stats</h2>
 </p>
 
 <p align="center">
