@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&amp;logo=azure-devops&amp;logoColor=white&color=black" width="63">
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white&color=black" width="137">
 <img src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&amp;logo=glitch&amp;logoColor=white&color=black" width="87">
-<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=white&color=black" width="92">
+<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=6600CC&color=black" width="92">
 <img src="https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&amp;logo=scaleway&amp;logoColor=white&color=black" width="108">
 <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&amp;logo=openstack&amp;logoColor=white&color=black" width="114">
 <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&amp;logo=datadog&amp;logoColor=white&color=black" width="101">
@@ -59,13 +59,13 @@
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&amp;logo=socket.io&amp;badgeColor=010101&color=black" width="109">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&color=black" width="104">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&color=black" width="83">
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white&color=black" width="87">
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=07405e&color=black" width="87">
 <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&amp;logo=realm&amp;logoColor=white&color=black" width="83">
 <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&amp;logo=Adobe%20After%20Effects&amp;logoColor=white&color=black" width="186">
 <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&amp;logo=Adobe%20Dreamweaver&amp;logoColor=white&color=black" width="185">
-<img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=white&color=black" width="170">
+<img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=FFCC00&color=black" width="170">
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&amp;logo=Adobe%20Premiere%20Pro&amp;logoColor=white&color=black" width="182">
-<img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white&color=black" width="162">
+<img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=0033FF&color=black" width="162">
 <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&amp;logo=Aseprite&amp;logoColor=#7D929E&color=black" width="103">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white&color=black" width="84">
 </p>
