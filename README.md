@@ -2,10 +2,9 @@
    <h1>Hi 👋, I'm <a href="https://nguyenquocvinh.glitch.me">Vinh </a><img src="https://github.com/vinkay215/vinkay215/blob/main/img/verified.gif?raw=true" width="20" /></h1>
 </div>
 
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=29&duration=600&pause=3000&color=378CF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub.;My+commonly+used+nickname+is+Vinkay;I+am+a+developer;I+am+a+designer;Youtuber;Thanks+for+visiting+my+profile;see+you+next+time!" alt="Typing SVG" /></a></p>
 
-<div align="center">
-<img height="200" width="100%" src="https://camo.githubusercontent.com/031e7ac883cda4fae8c7d22d2aa47bf4c27c6f92eb6edb2de302cb7e41543463/68747470733a2f2f6e677579656e71756f6376696e682e676c697463682e6d652f50726f66696c652f736974652d6769746875622e737667"/>
-</div> 
+  
 <p align="center">
   𝘾𝒐𝙣𝒕𝙖𝒄𝙩 𝙛𝒐𝙧 𝙬𝒐𝙧𝒌
 </p>
