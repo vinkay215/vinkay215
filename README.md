@@ -74,7 +74,7 @@
 <div align="center">
     
 ###### @2024 [nguyenquocvinh](http://nguyenquocvinh.glitch.me), Inc. All rights reserved
-<a href="https://nguyenquocvinh.glitch.me"><img src="https://visitcountpro.netlify.app/api?id=vinkay215&pretty=true&icon=2&color=1&bg=0" alt="Visit Count" width="140"></a>
+<a href="https://nguyenquocvinh.glitch.me"><img src="https://visitcountpro.netlify.app/api?id=vinkay215&pretty=true&icon=2&color=0&bg=0" alt="Visit Count" width="140"></a>
 <a href=""><img src="https://img.shields.io/github/stars/vinkay215?label=Star%20Gazers&style=social"></a>
 <a href="https://www.youtube.com/c/VinhNguy%E1%BB%85nOfficial512"><img src="https://img.shields.io/youtube/channel/views/UCpi52nMV0drR-hFNvxegPmQ?style=social"></a>
 <br>
