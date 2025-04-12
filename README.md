@@ -17,7 +17,7 @@
     <h2 align="center">🏆 GitHub Stats</h2>
 </p>
 
-<p align="center"><a href="https://github.com/vinkay215" target="_blank"><img src="https://nguyenquocvinh.vercel.app/api?username=vinkay215&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="360"/></a><a href="https://github.com/vinkay215" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinkay215&theme=transparent&hide_border=true&fire=FF8354&currStreakNum=EB0000&currStreakLabel=116EEBEF&ring=EB545497" width="395" /></a><a href="https://github.com/vinkay215" target="_blank"><img src="https://nguyenquocvinh.vercel.app/api/top-langs?username=vinkay215&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut" width="290" /></a></p>
+<p align="center"><a href="https://github.com/vinkay215" target="_blank"><img src="https://nguyenquocvinh.vercel.app/api?username=vinkay215&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="360"/></a><a href="https://github.com/vinkay215" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinkay215&theme=transparent&hide_border=true&fire=FF2624&currStreakNum=EB0000&currStreakLabel=116EEBEF&ring=EB54549" width="395" /></a><a href="https://github.com/vinkay215" target="_blank"><img src="https://nguyenquocvinh.vercel.app/api/top-langs?username=vinkay215&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut" width="290" /></a></p>
 
 
   
