@@ -22,7 +22,7 @@ const vinh = {
     nickname: "Vinkay",
     location: "Vietnam 🇻🇳",
     roles: ["Developer", "Designer", "YouTuber"],
-    languages: ["JavaScript", "Python", "Java", "C++"],
+    languages: ["React", "Python", "Java", "C++"],
     currentFocus: "Building amazing web experiences",
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
