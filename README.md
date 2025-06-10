@@ -11,6 +11,24 @@
 <p align="center">
 <a href="https://facebook.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a><a href="https://instagram.com/_vinkay_" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a><a href="https://linkedin.com/in/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a><a href="https://www.youtube.com/c/VinhNguyenOfficial512" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" /></a><a href="https://replit.com/@vinkay" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a><a href="mailto:nguyenquocvinh.bocking@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
 </p>  
+## 🎯 About Me
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```javascript
+const vinh = {
+    name: "Nguyen Quoc Vinh",
+    nickname: "Vinkay",
+    location: "Vietnam 🇻🇳",
+    roles: ["Developer", "Designer", "YouTuber"],
+    languages: ["JavaScript", "Python", "Java", "C++"],
+    currentFocus: "Building amazing web experiences",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+<br clear="right"/>  
+
 
   
 <p align="center">
@@ -34,43 +52,29 @@
 <p align="center">
     <h2 align="center">Tech Stack</h2>
 
-  <p align="center">
-    <br><strong align="center">Frontend</strong><br>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=e34f26&color=black">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=e34f26&color=black">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=black">
-    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white&color=black">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=black">
-    <br><br><strong align="center">Backend</strong><br>
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=777bb4&color=black">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=black">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=ed8b00&color=black">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=00DD00&color=black">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=00599c&color=black">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=00599c&color=black">
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=5c2d91&color=black">
-    <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101&color=black">
-    <br><br><strong align="center">Database</strong><br>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=4ea94b&color=black">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black">
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=07405e&color=black">
-    <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=39477f&color=black">
-    <br><br><strong align="center">Cloud / DevOps</strong><br>
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white&color=black">
-    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=4285f4&color=black">
-    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=6600CC&color=black">
-    <img src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=ff61f6&color=black">
-    <img src="https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=4f0599&color=black">
-    <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=FF0033&color=black">
-    <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=632ca6&color=black">
-    <br><br><strong align="center">Design</strong><br>
-    <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=FFCC00&color=black">
-    <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=0033FF&color=black">
-    <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=ff61f6&color=black">
-    <br><br><strong align="center">Multimedia</strong><br>
-    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=9999ff&color=black">
-    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9900CC&color=black">
-  </p>
+<div align="center">
+
+### Frontend Magic ✨
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nextjs,tailwind,sass,figma,threejs" />
+</p>
+
+### Backend Power ⚡
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,cpp,cs,dotnet,express,django,spring" />
+</p>
+
+### Database & Cloud ☁️
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws,gcp,azure,docker,kubernetes" />
+</p>
+
+### Design & Multimedia 🎨
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premiere,blender,unity" />
+</p>
+
+</div>
 
 
 
