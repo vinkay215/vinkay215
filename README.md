@@ -14,19 +14,11 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+👋 About Me
 
-```javascript
-const vinh = {
-    name: "Nguyen Quoc Vinh",
-    nickname: "Vinkay",
-    location: "Vietnam 🇻🇳",
-    roles: ["Developer", "Designer", "YouTuber"],
-    languages: ["React", "Python", "Java", "C++"],
-    currentFocus: "Building amazing web experiences",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+I'm Nguyen Quoc Vinh, also known as Vinkay — a developer focused on creating practical, modern, and user-friendly digital products.
+
+I enjoy turning ideas into meaningful technology and continuously improving my skills through real-world projects.
 
 <br clear="right"/>  
 
@@ -36,24 +28,11 @@ const vinh = {
     <h2 align="center">🏆 GitHub Stats</h2>
 </p>
 
-<p align="center"><a href="https://github.com/vinkay215" target="_blank"><img src="https://nguyenquocvinh.vercel.app/api?username=vinkay215&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="360"/></a><a href="https://github.com/vinkay215" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinkay215&theme=transparent&hide_border=true&ring=EB5454B3&fire=FF6036&currStreakLabel=EB9E36&currStreakNum=EB1100&sideLabels=EB9E36" width="395" /></a><a href="https://github.com/vinkay215" target="_blank"><img src="https://nguyenquocvinh.vercel.app/api/top-langs?username=vinkay215&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut" width="290" /></a></p>
+<p align="center"><a href="https://github.com/vinkay215" target="_blank"><img src="https://nguyenquocvinh.vercel.app/api?username=vinkay215&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="360"/></a><a href="https://github.com/vinkay215" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinkay215&theme=transparent&hide_border=true&ring=EB5454B3&fire=FF6036&currStreakLabel=EB9E36&currStreakNum=EB1100&sideLabels=EB9E36" width="395" /></a></p>
 
 
   
 
----
-
-   <details align="center">
-<summary>✨ 𝐌𝐲 𝐟𝐚𝐯𝐨𝐫𝐢𝐭𝐞 𝐪𝐮𝐨𝐭𝐞 ✨</summary><br>
-  <i>❝𝙇𝙞𝙛𝙚 𝙞𝙨 𝙣𝙤𝙩 𝙖𝙗𝙤𝙪𝙩 𝙗𝙡𝙞𝙣𝙙𝙡𝙮 𝙛𝙤𝙡𝙡𝙤𝙬𝙞𝙣𝙜 𝙩𝙝𝙚 𝙧𝙪𝙡𝙚𝙨 𝙤𝙩𝙝𝙚𝙧𝙨 𝙨𝙚𝙩 𝙛𝙤𝙧 𝙮𝙤𝙪. 𝙄𝙩'𝙨 𝙖𝙗𝙤𝙪𝙩 𝙡𝙞𝙨𝙩𝙚𝙣𝙞𝙣𝙜 𝙩𝙤 𝙩𝙝𝙚 𝙬𝙝𝙞𝙨𝙥𝙚𝙧𝙨 𝙤𝙛 𝙮𝙤𝙪𝙧 𝙝𝙚𝙖𝙧𝙩, 𝙙𝙤𝙞𝙣𝙜 𝙬𝙝𝙖𝙩 𝙮𝙤𝙪 𝙗𝙚𝙡𝙞𝙚𝙫𝙚 𝙞𝙨 𝙧𝙞𝙜𝙝𝙩, 𝙖𝙣𝙙 𝙘𝙝𝙖𝙨𝙞𝙣𝙜 𝙩𝙝𝙚 𝙙𝙧𝙚𝙖𝙢𝙨 𝙮𝙤𝙪 𝙖𝙧𝙚 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙖𝙗𝙤𝙪𝙩. 𝙉𝙚𝙫𝙚𝙧 𝙡𝙚𝙩 𝙖𝙣𝙮𝙤𝙣𝙚 𝙙𝙚𝙛𝙞𝙣𝙚 𝙮𝙤𝙪𝙧 𝙬𝙤𝙧𝙩𝙝. 𝙏𝙝𝙚 𝙧𝙚𝙖𝙡 𝙨𝙩𝙧𝙚𝙣𝙜𝙩𝙝 𝙘𝙤𝙢𝙚𝙨 𝙬𝙝𝙚𝙣 𝙮𝙤𝙪 𝙘𝙖𝙧𝙫𝙚 𝙮𝙤𝙪𝙧 𝙤𝙬𝙣 𝙥𝙖𝙩𝙝 𝙖𝙣𝙙 𝙨𝙝𝙤𝙬 𝙩𝙝𝙚 𝙬𝙤𝙧𝙡𝙙 𝙩𝙝𝙖𝙩 𝙮𝙤𝙪𝙧 𝙥𝙤𝙬𝙚𝙧 𝙡𝙞𝙚𝙨 𝙬𝙞𝙩𝙝𝙞𝙣 𝙮𝙤𝙪. 𝙍𝙚𝙢𝙚𝙢𝙗𝙚𝙧, 𝙩𝙧𝙪𝙚 𝙛𝙧𝙚𝙚𝙙𝙤𝙢 𝙖𝙣𝙙 𝙨𝙪𝙘𝙘𝙚𝙨𝙨 𝙘𝙤𝙢𝙚 𝙬𝙝𝙚𝙣 𝙮𝙤𝙪 𝙡𝙞𝙫𝙚 𝙤𝙣 𝙮𝙤𝙪𝙧 𝙩𝙚𝙧𝙢𝙨, 𝙣𝙤 𝙢𝙖𝙩𝙩𝙚𝙧 𝙩𝙝𝙚 𝙤𝙗𝙨𝙩𝙖𝙘𝙡𝙚𝙨. 🥷✨ 𝙆𝙚𝙚𝙥 𝙥𝙪𝙨𝙝𝙞𝙣𝙜 𝙛𝙤𝙧𝙬𝙖𝙧𝙙, 𝙠𝙚𝙚𝙥 𝙥𝙧𝙤𝙫𝙞𝙣𝙜 𝙩𝙝𝙚𝙢 𝙬𝙧𝙤𝙣𝙜. 🎭✨❞</i>
-</div>  <br>  
-<div align="center"><a href="https://nguyenquocvinh.glitch.me/Donate"><img src="https://github.com/vinkay215/vinkay215/blob/main/img/Donate.png" width="150" /></a></div></details>
-
----
-<p align="center">
-    <h2 align="center">Tech Stack</h2>
-
-<div align="center">
 
 ### Frontend Magic ✨
 <p>
