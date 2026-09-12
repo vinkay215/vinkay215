@@ -20,7 +20,9 @@ I enjoy turning ideas into meaningful technology and continuously improving my s
 
 
  
-<p align="center">
+<p align="center">  
+
+  
 ###### @2024 [nguyenquocvinh](http://nguyenquocvinh.glitch.me), Inc. All rights reserved
 <a href="https://vinkay215.vercel.app"><img src="https://visitcountpro.netlify.app/api?id=vinkay215&pretty=true&icon=2&color=0&bg=0" alt="Visit Count" width="140"></a>
 <a href=""><img src="https://img.shields.io/github/stars/vinkay215?label=Star%20Gazers&style=social"></a>
