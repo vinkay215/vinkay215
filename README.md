@@ -1,7 +1,5 @@
 <div align="center">
 
-## 🎯 About Me
-
 Developer focused on building **practical, modern, and user-friendly digital products**.
 
 I enjoy turning ideas into real-world applications, exploring new technologies,
