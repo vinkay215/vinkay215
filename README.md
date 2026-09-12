@@ -20,10 +20,7 @@ and continuously improving through **building, experimenting, and shipping**.
 </p>
 
 ### Connect & Explore
-
 <p align="center">
-
-
 <sub>© 2015–2026 <b>Nguyen Quoc Vinh (Vinkay)</b> · All rights reserved.</sub><br> <sub>💻 <i>Turning ideas into products, one commit at a time.</i></sub>
 
 </div>
