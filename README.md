@@ -14,10 +14,10 @@ and continuously improving through **building, experimenting, and shipping**.
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/vinkay215">
-    <img src="https://nguyenquocvinh.vercel.app/api?username=vinkay215&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub Stats" />
+  <a href="https://github.com/vinkayinc">
+    <img src="https://nguyenquocvinh.vercel.app/api?username=vinkayinc&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/vinkay215">
+  <a href="https://github.com/vinkayinc">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=vinkay215&theme=transparent&hide_border=true&ring=EB5454B3&fire=FF6036&currStreakLabel=EB9E36&currStreakNum=EB1100&sideLabels=EB9E36" height="165" alt="GitHub Streak" />
   </a>
 </p>
