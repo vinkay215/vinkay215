@@ -15,7 +15,7 @@ I enjoy turning ideas into meaningful technology and continuously improving my s
     <h2 align="center">🏆 GitHub Stats</h2>
 </p>
 
-<p align="center"><a href="https://github.com/vinkay215" target="_blank"><img src="https://nguyenquocvinh.vercel.app/api?username=vinkay215&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="360"/></a><a href="https://github.com/vinkay215" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinkay215&theme=transparent&hide_border=true&ring=EB5454B3&fire=FF6036&currStreakLabel=EB9E36&currStreakNum=EB1100&sideLabels=EB9E36" width="395" /></a></p>
+<p align="center"><a href="https://github.com/vinkayinc" target="_blank"><img src="https://nguyenquocvinh.vercel.app/api?username=vinkay215&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="360"/></a><a href="https://github.com/vinkayinc" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=vinkay215&theme=transparent&hide_border=true&ring=EB5454B3&fire=FF6036&currStreakLabel=EB9E36&currStreakNum=EB1100&sideLabels=EB9E36" width="395" /></a></p>
 
 
  
