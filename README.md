@@ -1,16 +1,4 @@
-<div align="center">
-   <h1>Hi 👋, I'm <a href="https://nguyenquocvinh.glitch.me">Vinh </a><img src="https://github.com/vinkay215/vinkay215/blob/main/img/verified.gif?raw=true" width="20" /></h1>
-</div>  
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=24&duration=600&pause=3000&color=378CF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub.;My+commonly+used+nickname+is+Vinkay;I+am+a+developer;I+am+a+designer;Youtuber;Thanks+for+visiting+my+profile;see+you+next+time!" alt="Typing SVG" /></a></p>
-
-  
-<p align="center">
-  𝘾𝒐𝙣𝒕𝙖𝒄𝙩 𝙛𝒐𝙧 𝙬𝒐𝙧𝒌
-</p>
-<p align="center">
-<a href="https://facebook.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a><a href="https://instagram.com/_vinkay_" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a><a href="https://linkedin.com/in/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a><a href="https://www.youtube.com/c/VinhNguyenOfficial512" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" /></a><a href="https://replit.com/@vinkay" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a><a href="mailto:nguyenquocvinh.bocking@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
-</p>  
 
 ## 🎯 About Me
 
@@ -32,7 +20,7 @@ I enjoy turning ideas into meaningful technology and continuously improving my s
 
 
  
-    
+<p align="center">
 ###### @2024 [nguyenquocvinh](http://nguyenquocvinh.glitch.me), Inc. All rights reserved
 <a href="https://vinkay215.vercel.app"><img src="https://visitcountpro.netlify.app/api?id=vinkay215&pretty=true&icon=2&color=0&bg=0" alt="Visit Count" width="140"></a>
 <a href=""><img src="https://img.shields.io/github/stars/vinkay215?label=Star%20Gazers&style=social"></a>
