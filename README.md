@@ -2,7 +2,6 @@
 
 ## 🎯 About Me
 
-👋 About Me
 
 I'm Nguyen Quoc Vinh, also known as Vinkay — a developer focused on creating practical, modern, and user-friendly digital products.
 
