@@ -9,7 +9,6 @@ and continuously improving through **building, experimenting, and shipping**.
 
 <br>
 
-## 🏆 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/vinkayinc">
